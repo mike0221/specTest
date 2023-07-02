@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370377643051",
+    "project_id": "spectest-9c9af",
+    "storage_bucket": "spectest-9c9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370377643051:android:a525dc7c796c71df26466e",
+        "android_client_info": {
+          "package_name": "com.spectest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370377643051-dg8kmv1fq5n14nd2b3dhtj8qkh7s5b4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spectest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "370377643051-4vcpsj61io0p490q6622r33sa3pco2ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChqeTmtYkjaosk-z1ZQUjiLdJojclUBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370377643051-4vcpsj61io0p490q6622r33sa3pco2ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
